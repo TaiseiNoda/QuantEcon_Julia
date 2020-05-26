@@ -3,17 +3,12 @@
 This folder includes my answer for the exercises in  QuantEcon with Julia. I solved the exercises in the following chapters
 
 
-1. Introductory Examples
-
-2. Julia Essentials
-
-3. Arrays, Tuples, Ranges, and Other Fundamental Types
-
-4. Introduction to Types and Generic Programming
-
-5. Generic Programming
-
-6. Solvers, Optimizers, and Automatic Differentiation
+  1. Introductory Examples
+  2. Julia Essentials
+  3. Arrays, Tuples, Ranges, and Other Fundamental Types
+  4. Introduction to Types and Generic Programming
+  5. Generic Programming
+  6. Solvers, Optimizers, and Automatic Differentiation
 
 7. Linear Algebra
 
