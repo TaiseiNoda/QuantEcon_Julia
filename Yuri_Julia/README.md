@@ -15,7 +15,6 @@ This folder includes my answer for the exercises in  QuantEcon with Julia. I sol
 -  Continuous State Markov Chains
 -  Numerical Linear Algebra and Factorizations
 -  Krylov Methods and Matrix Conditioning
--  Continuous Time Markov Chains
 -  Numerical Linear Algebra and Factorizations
 - Krylov Methods and Matrix Conditioning
 -  Discrete State Dynamic Programming
