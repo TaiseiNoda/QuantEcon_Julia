@@ -1,23 +1,22 @@
 ## Yuri_Julia
 
 This folder includes my answer for the exercises in  QuantEcon with Julia. I solved the exercises in the following chapters
-
-- Introductory Examples
+- Introductory Example
 - Julia Essentials
 - Arrays, Tuples, Ranges, and Other Fundamental Types
-  4. Introduction to Types and Generic Programming
-  5. Generic Programming
-  6. Solvers, Optimizers, and Automatic Differentiation
-  7. Linear Algebra
-  8. Orthogonal Projections and Their Applications
-  9. LLN and CLT
-  10. Linear State Space Models
-  11. Finite Markov Chains
-  12. Continuous State Markov Chains
-  13. Numerical Linear Algebra and Factorizations
-  14. Krylov Methods and Matrix Conditioning
-  15. Continuous Time Markov Chains
-  16. Numerical Linear Algebra and Factorizations
-  17. Krylov Methods and Matrix Conditioning
-  18. Discrete State Dynamic Programming
-  19. Markov Perfect Equilibrium
+- Introduction to Types and Generic Programming
+- Generic Programming
+- Solvers, Optimizers, and Automatic Differentiation
+- Linear Algebra
+- Orthogonal Projections and Their Applications
+- LLN and CLT
+-  Linear State Space Models
+- Finite Markov Chain
+-  Continuous State Markov Chains
+-  Numerical Linear Algebra and Factorizations
+-  Krylov Methods and Matrix Conditioning
+-  Continuous Time Markov Chains
+-  Numerical Linear Algebra and Factorizations
+- Krylov Methods and Matrix Conditioning
+-  Discrete State Dynamic Programming
+-  Markov Perfect Equilibrium
